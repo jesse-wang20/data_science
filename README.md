@@ -1,2 +1,1 @@
-# data_science
-Data Science Colab Files
+Assorted homeworks showcasing my experience in data science.
